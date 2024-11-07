@@ -1,4 +1,3 @@
-# DNS
 
 // prerequisite: npm, node installed
 // install this package
